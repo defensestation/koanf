@@ -10,7 +10,7 @@ koanf comes with built in support for reading configuration from files, command 
 ### Project github
 
 ```
-https://github.com/knadh/koanf
+[Koanf Offical](https://github.com/knadh/koanf)
 ```
 
 ### Providers
@@ -18,5 +18,5 @@ https://github.com/knadh/koanf
 - AWS Parameter Store
 
 ## Examples
-- [Secrets Manager](https://github.com/defensestation/koanf/examples/read-secretsmanager)
-- [Parameter Store](https://github.com/defensestation/koanf/examples/read-parameterstore)
+- [Secrets Manager](https://github.com/defensestation/koanf/blob/main/examples/read-secretsmanager/main.go)
+- [Parameter Store](https://github.com/defensestation/koanf/blob/main/examples/read-parameterstore/main.go)
