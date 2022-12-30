@@ -8,10 +8,7 @@ koanf comes with built in support for reading configuration from files, command 
 [![Run Tests](https://github.com/knadh/koanf/actions/workflows/test.yml/badge.svg)](https://github.com/knadh/koanf/actions/workflows/test.yml) [![GoDoc](https://godoc.org/github.com/knadh/koanf?status.svg)](https://godoc.org/github.com/knadh/koanf) 
 
 ### Project github
-
-```
 [Koanf Offical](https://github.com/knadh/koanf)
-```
 
 ### Providers
 - AWS Secrets Manager
