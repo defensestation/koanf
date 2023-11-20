@@ -1,4 +1,4 @@
-module github.com/defensestaiton/koanf/providers/parameterstore
+module github.com/defensestation/koanf/providers/parameterstore
 
 go 1.21.3
 

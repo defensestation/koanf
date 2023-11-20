@@ -1,4 +1,4 @@
-module github.com/defensestaiton/koanf/providers/secretsmanager
+module github.com/defensestation/koanf/providers/secretsmanager
 
 go 1.21.3
 
